@@ -1,16 +1,54 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**IT21050794/IT21050794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 22-year-old Software Engineering student from Sri Lanka, passionate about building innovative solutions. 
 
-Here are some ideas to get you started:
+**Skills & Experience**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming Languages:**
+
+* Python
+* Java
+* JavaScript 
+* C++ 
+* C#
+
+**Databases:**
+
+* SQL (MySQL, PostgreSQL)
+* NoSQL (MongoDB, Cassandra)
+
+**Hosting:**
+
+* AWS 
+* Heroku
+* Netlify
+
+**Frameworks:**
+
+* Django
+* Spring Boot
+* Node.js frameworks
+
+**Tools:**
+
+* Git
+* Version control systems (SVN, Mercurial)
+* IDEs (Visual Studio Code, PyCharm, IntelliJ IDEA)
+* Build tools (Make, Maven, Gradle)
+* Testing frameworks (JUnit, Jest)
+
+**Design Platforms:**
+
+* Figma 
+* UI/UX design tools 
+
+**Operating Systems:**
+
+* Linux
+* macOS
+* Windows
+
+**Commitment on GitHub **
+
+[![Sachintha Dasanayake's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21050794)](https://github.com/anuraghazra/github-readme-stats)
+
