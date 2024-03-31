@@ -49,6 +49,4 @@ I'm a 22-year-old Software Engineering student from Sri Lanka, passionate about 
 * Windows
 
 **Commitment on GitHub **
-
-[![Sachintha Dasanayake's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21050794)](https://github.com/anuraghazra/github-readme-stats)
-
+![Sachintha Dasanayake's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21050794&show_icons=true&theme=radical)
